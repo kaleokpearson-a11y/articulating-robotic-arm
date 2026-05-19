@@ -1,2 +1,2 @@
 # articulating-robotic-arm
-A robotic arm that can pick up and move loads
+this is my first large project that I am not doing as a part of a team. I originally started this project as my capstone for my engineering class but was not satisfied with the result and so I am now taking on the redesign in my personal time. My goal with the redesign of this project is to make the arm able to pick up and move significant loads, I am aiming for at least 5 pounds (the original could barely support its own weight). The entire system is powered by nema-17 stepper motors controlled by an arduino mega. i am coding it in C++ and the I am designing the entire thing in solidworks.
